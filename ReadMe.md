@@ -5,7 +5,7 @@
     <p>final data in csv format</p>
     <p>Meteiomatics API access(<a>https://www.meteomatics.com/en/api/getting-started/</a>)</p>
 
-<h1>Install following Libraries</h1>
+<h1>Install following Libraries using pip install</h1>
     <p>matplotlib</p>
     <p>numpy</p>
     <p>requests</p>
@@ -18,5 +18,5 @@
 <p>1. Ensure that the prerequisites are fulfilled to run the project.</p>
 <p>2. Install the above-mentioned libraries with python.</p> 
 <p>3. Ensure that final data in csv format (All_variables_cleaned_data.csv) is present in the current directory.</p>
-<p>4. Replace the Global Variables meteomatics_user_name and meteomatics_password with Metiomatics Access credentials</p>
+<p>4. Replace the Global Variables meteomatics_user_name and meteomatics_password with Meteomatics Access credentials.  Create credentials for free but only on a 14 day trial.</p>
 <p>4. Run the final named widget.py.</p>
