@@ -19,4 +19,4 @@
 <p>2. Install the above-mentioned libraries with python.</p> 
 <p>3. Ensure that final data in csv format (All_variables_cleaned_data.csv) is present in the current directory.</p>
 <p>4. Replace the Global Variables meteomatics_user_name and meteomatics_password with Meteomatics Access credentials.  Create credentials for free but only on a 14 day trial.</p>
-<p>4. Run the final named widget.py.</p>
+<p>4. Run the app with: python widget.py.</p>
