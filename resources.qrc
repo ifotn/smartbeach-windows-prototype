@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="background">
+    <file>Smart-Beach-Logo (1).png</file>
+    <file>logo.jpg</file>
+    <file>BeachBackground.jpg</file>
+  </qresource>
+</RCC>
